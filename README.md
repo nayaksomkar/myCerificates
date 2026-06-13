@@ -1,4 +1,4 @@
-# myCerificates
+# myCertificates
 
 A simple collection of certificate files and metadata.
 
