@@ -10,5 +10,11 @@
     "pathJPG": "CertificateJPG/certificate_02.jpg",
     "pathPDF": "CertificatePDF/certificate_02.pdf",
     "udemyURL": "https://www.udemy.com/certificate/UC-eac68316-1dd1-4650-8b69-89586e473c45/"
+  },
+  "certificate_03": {
+    "Title": "LangChain- Agentic AI Engineering with LangChain & LangGraph",
+    "pathJPG": "CertificateJPG/certificate_03.jpg",
+    "pathPDF": "CertificatePDF/certificate_03.pdf",
+    "udemyURL": "https://www.udemy.com/certificate/UC-d4eb91bd-bbee-4129-bf80-06ce28856b76/"
   }
 }
