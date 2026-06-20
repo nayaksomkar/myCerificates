@@ -34,5 +34,18 @@
     "pathJPG": "CertificateJPG/certificate_06.jpg",
     "pathPDF": "CertificatePDF/certificate_06.pdf",
     "udemyURL": "https://www.udemy.com/certificate/UC-2c82c5a9-40e9-4556-9657-f82c3c0583c2/"
+  },
+  "certificate_07": {
+    "Title": "angChain 101 for Beginners (OpenAI / ChatGPT / LLMOps)",
+    "pathJPG": "CertificateJPG/certificate_07.jpg",
+    "pathPDF": "CertificatePDF/certificate_07.pdf",
+    "udemyURL": "https://www.udemy.com/certificate/UC-bd43e767-9811-46a7-9b7a-1a9f7bdfdcd8/"
+  },
+  "certificate_08": {
+    "Title": " LangChain and LangGraph Crash Course",
+    "pathJPG": "CertificateJPG/certificate_08.jpg",
+    "pathPDF": "CertificatePDF/certificate_08.pdf",
+    "udemyURL": "https://www.udemy.com/certificate/UC-8e99dd08-e36f-436d-a6f8-850a7cdbc4f1/"
   }
 }
+
